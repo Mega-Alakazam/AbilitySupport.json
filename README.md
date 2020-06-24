@@ -1,0 +1,2 @@
+# AbilitySupport.json
+minecraft
